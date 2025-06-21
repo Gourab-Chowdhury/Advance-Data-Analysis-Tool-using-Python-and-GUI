@@ -1,6 +1,6 @@
 # Advanced Data Analysis Tool using Python and GUI
 
-![Advanced Data Analysis Tool Screenshot](https://github.com/Gourab-Chowdhury/Advance-Data-Analysis-Tool-using-Python-and-GUI/blob/main/screenshot/Data%20Analysis.png)
+![Advanced Data Analysis Tool Screenshot](https://github.com/Gourab-Chowdhury/Advance-Data-Analysis-Tool-using-Python-and-GUI/blob/main/screenshot/Advance%20Data%20Analysis%20Tool.png)
 
 The Advanced Data Analysis Tool is a comprehensive Python application designed for performing statistical analysis, data preprocessing, and visualization on various data formats. With its intuitive graphical interface, users can easily explore, clean, analyze, and visualize datasets without writing any code.
 
